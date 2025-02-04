@@ -46,61 +46,61 @@
       "id": 8,
       "name": "Veigh",
       "genre": "Rap",
-      "urlImg": "https://i.pinimg.com/originals/3b/1e/5e/3b1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/veigh.jpg"
     },
     {
       "id": 9,
       "name": "Boaventura",
       "genre": "Hip Hop",
-      "urlImg": "./src/artists/images.jpg"
+      "urlImg": "./src/artists/boaventura.jpg"
     },
     {
       "id": 10,
       "name": "Kyan",
       "genre": "Rap",
-      "urlImg": "https://i.pinimg.com/originals/5c/1e/5e/5c1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/kyan.jpg"
     },
     {
       "id": 11,
       "name": "Yunk Vino",
       "genre": "Rap",
-      "urlImg": "https://i.pinimg.com/originals/6d/1e/5e/6d1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/yunkvino.jpg"
     },
     {
       "id": 12,
       "name": "MC Ig",
       "genre": "Funk",
-      "urlImg": "https://i.pinimg.com/originals/7e/1e/5e/7e1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/mcig.jpeg"
     },
     {
       "id": 13,
       "name": "Recayd Mob",
       "genre": "Rap",
-      "urlImg": "https://i.pinimg.com/originals/8f/1e/5e/8f1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/recayd.jpg"
     },
     {
       "id": 14,
       "name": "MC Luuky",
       "genre": "Funk",
-      "urlImg": "https://i.pinimg.com/originals/9a/1e/5e/9a1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/mcluuky.jpg"
     },
     {
       "id": 15,
       "name": "Danzo",
       "genre": "Rap",
-      "urlImg": "https://i.pinimg.com/originals/ab/1e/5e/ab1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/danzo.jpg"
     },
     {
       "id": 16,
       "name": "LPT Zlatan",
       "genre": "Rap",
-      "urlImg": "https://i.pinimg.com/originals/ac/1e/5e/ac1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/lptzlatan.jpg"
     },
     {
       "id": 17,
       "name": "Bradockdan",
       "genre": "Rap",
-      "urlImg": "https://i.pinimg.com/originals/ad/1e/5e/ad1e5e1c1c1e5e1c1e5e1c1e5e1c1e5.jpg"
+      "urlImg": "./src/artists/bradockdan.jpeg"
     }
   ]
 }

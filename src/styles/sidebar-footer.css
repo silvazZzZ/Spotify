@@ -1,5 +1,6 @@
 body{
-    background-color: #000000;
+    background-image: url(../assets/background/5e482778739d99a90c3eda38182175ac.jpg);
+    background-size: cover;
     font-family: var(--font-dm-sans);
 }
 
